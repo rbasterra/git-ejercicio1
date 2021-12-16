@@ -1,1 +1,3 @@
-fichero contador
+fichero contado
+
+modificacionr
